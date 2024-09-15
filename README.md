@@ -2,6 +2,8 @@
 <h3 align="center">A passionate writer about aliens, flutist, and a frontend developer from India!<br>
 Good to see you here!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyashi4567&label=Profile%20views&color=0e75b6&style=flat" alt="shreyashi4567" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyashi4567" alt="shreyashi4567" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@svippandey](https://medium.com/@svippandey)
