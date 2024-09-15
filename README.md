@@ -13,7 +13,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="undefined@svippandey" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
+<p><a target="_blank" href="https://medium.com/@svippandey" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreyashi4567&show_icons=true&locale=en" alt="Shreyashi4567" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyashi4567&" alt="Shreyashi4567" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreyashi4567&show_icons=true&locale=en&layout=compact" alt="Shreyashi4567" /></p>
